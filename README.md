@@ -13,6 +13,7 @@ A quiz to test your knowledge of Javascript made out of javascript.
 - [LiveLink](#livelink)
 * [RepoLink](#repolink)
 - [Contact](#contact)
+* [Screenshot](#screenshot)
 
 ## Usage
 
@@ -33,3 +34,6 @@ https://github.com/danielhillsman/Javascript-Quiz
 
 ## Contact
 Have any questions? Please contact me at [daniel.loves.junk@gmail.com](mailto:daniel.loves.junk@gmail.com). View more of my work in GitHub at [danielhillsman](https://github.com/danielhillsman)
+
+## Screenshot
+![image](https://user-images.githubusercontent.com/99533951/160495761-b59eeaa4-dea9-4a08-aa5b-17310431a582.png)

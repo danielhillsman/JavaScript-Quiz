@@ -27,10 +27,10 @@ This Repo has all my work spend creating this quiz
 I had some help from my instructors.
 
 ## LiveLink
-https://github.com/danielhillsman/Javascript-Quiz
+ https://danielhillsman.github.io/JavaScript-Quiz/
 
 ## RepoLink
- https://danielhillsman.github.io/JavaScript-Quiz/
+https://github.com/danielhillsman/Javascript-Quiz
 
 ## Contact
 Have any questions? Please contact me at [daniel.loves.junk@gmail.com](mailto:daniel.loves.junk@gmail.com). View more of my work in GitHub at [danielhillsman](https://github.com/danielhillsman)
